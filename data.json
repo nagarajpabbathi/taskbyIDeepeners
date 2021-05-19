@@ -1,0 +1,72 @@
+
+    {"gooogleAds": {
+        "clicks": {
+            "may_1": 50,
+            "may_2": 51,
+            "may_3": 49,
+            "may_4": 50,
+            "may_5": 50,
+            "may_6": 51
+        },
+        "conversions": {
+            "may_1": 50,
+            "may_2": 49,
+            "may_3": 48,
+            "may_4": 47,
+            "may_5": 53,
+            "may_6": 51
+        },
+        "costConsersion": {
+            "may_1": 50,
+            "may_2": 51,
+            "may_3": 34,
+            "may_4": 45,
+            "may_5": 40,
+            "may_6": 30
+        },
+        "roas": {
+            "may_1": 50,
+            "may_2": 20,
+            "may_3": 10,
+            "may_4": 9,
+            "may_5": 7,
+            "may_6": 8
+        }
+        
+    },
+   " facebookAds": {
+    "clicks": {
+        "may_1": 50,
+        "may_2": 51,
+        "may_3": 54,
+        "may_4": 50,
+        "may_5": 53,
+        "may_6": 51
+    },
+    "conversions": {
+        "may_1": 50,
+        "may_2": 51,
+        "may_3": 54,
+        "may_4": 50,
+        "may_5": 53,
+        "may_6": 51
+    },
+    "costConsersion": {
+        "may_1": 50,
+        "may_2": 51,
+        "may_3": 54,
+        "may_4": 50,
+        "may_5": 53,
+        "may_6": 51
+    },
+    "roas": {
+        "may_1": 50,
+        "may_2": 51,
+        "may_3": 54,
+        "may_4": 50,
+        "may_5": 53,
+        "may_6": 51
+    }
+    
+    }
+}
